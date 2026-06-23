@@ -2,21 +2,21 @@
 
 ### ECE Undergraduate | Python Enthusiast
 
-🎓 B.Tech in Electronics & Communication Engineering (ECE)  
-🏫 NRI Institute of Technology, Vijayawada
+ B.Tech in Electronics & Communication Engineering (ECE)  
+ NRI Institute of Technology, Vijayawada
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Learning Python and Software Development
-- 🌱 Currently exploring Git, GitHub, and Web Development
-- 📚 Interested in Programming and Technology
-- 🎯 Goal: Become a Software Developer and build real-world projects
+-  Learning Python and Software Development
+-  Currently exploring Git, GitHub, and Web Development
+-  Interested in Programming and Technology
+-  Goal: Become a Software Developer and build real-world projects
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Jaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaffarsadiq04&show_icons=true&theme=tokyonight)
 
@@ -34,17 +34,16 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Python Programming Certifications
 - AI & Technology Related Certifications
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 Email: jaffarsadiqshaik04@gmail.com
-
+📧
 ---
 
 ⭐ Always learning and improving every day.
