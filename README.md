@@ -1,8 +1,8 @@
 # Hi, I'm Jaffar Sadiq 👋
 
-🎓 B.Tech ECE Student
-💻 Learning Python & Web Development
-🚀 Interested in Coding and Technology
+- B.Tech ECE Student
+- Learning Python & Web Development
+- Interested in Coding and Technology
 
 ## Skills
 - Python
