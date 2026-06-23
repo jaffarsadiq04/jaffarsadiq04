@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jaffar Sadiq 👋
 
-<!--
-**jaffarsadiq04/jaffarsadiq04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student
+💻 Learning Python & Web Development
+🚀 Interested in Coding and Technology
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+📧 jaffarsadiqshaik04@gmail.com
